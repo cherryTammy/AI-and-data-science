@@ -1,0 +1,11 @@
+print("hello my name is Tamara I am ",13," yrs old I love eating food and i school at JSPS ")
+print("\n i wake up at",6,"A.M")
+print("\n i make my bed, wear uniform")
+print("\n go down stairs")
+print("\n eat breakfast ")
+print("\n brush teeth")
+print("\n wait for the van to arrive")
+print("\n get in the van to go to school")
+print("python keywords are ")
+import keyword
+print(keyword.kwlist)
