@@ -1,11 +1,19 @@
-print("hello my name is Tamara I am ",13," yrs old I love eating food and i school at JSPS ")
-print("\n i wake up at",6,"A.M")
-print("\n i make my bed, wear uniform")
-print("\n go down stairs")
-print("\n eat breakfast ")
-print("\n brush teeth")
-print("\n wait for the van to arrive")
-print("\n get in the van to go to school")
-print("python keywords are ")
-import keyword
-print(keyword.kwlist)
+snack_name="crisps"
+price=120.5
+quntity=10
+is_available=True
+print("the snack name is",snack_name)
+print("the price is",price)
+print("the quntity",quntity)
+print("is the snack available",is_available)
+
+print(type(snack_name))
+print(type(price))
+print(type(quntity))
+print(type(is_available))
+total=price*quntity
+print("the total is",total)
+print("is the price below 200 ",price<200)
+print ("is quntity grater than 5",quntity>5)
+shop_name="shilos "+"shop"
+print("the name of the shop is",shop_name)
